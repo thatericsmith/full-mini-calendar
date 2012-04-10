@@ -5,7 +5,9 @@ This is simply a combo of great work done by others, I'm not trying to steal any
 
 
 So, full credit goes to:
+
 +  FullCalendar: http://arshaw.com/
+
 +  mini_calendar: http://mariouher.com/
 
 
